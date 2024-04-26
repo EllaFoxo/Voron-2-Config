@@ -1,0 +1,4 @@
+!.gitignore
+*.bkp
+K-ShakeTune
+K-ShakeTune_results/*
